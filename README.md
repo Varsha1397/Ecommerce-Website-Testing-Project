@@ -1,5 +1,12 @@
 # Ecommerce Website Testing Project
 
+## 🌐 Application Under Test
+
+Website Name: Eric Javits E-commerce Website  
+URL: https://ericjavits.com  
+
+The application is an online fashion e-commerce platform offering designer hats, bags, and accessories.
+
 ## 📖 Project Overview
 
 This repository contains a **Manual Testing Project** performed on an E-commerce website. The objective of this project was to validate website functionality, usability, and responsiveness across **desktop and mobile platforms**.
