@@ -13,7 +13,6 @@ This repository contains a **Manual Testing Project** performed on an E-commerce
 
 The testing activity simulates real-world QA testing practices followed in software companies.
 
----
 
 ## 🎯 Testing Objectives
 
@@ -60,6 +59,14 @@ The testing activity simulates real-world QA testing practices followed in softw
 * Smoke Testing
 * Responsive Testing
 * Cross-Browser Testing
+
+
+## 📱 Platforms Tested
+
+✅ Desktop Website Testing  
+✅ Mobile Website Testing  
+
+Both versions were validated for UI, functionality, usability, and responsiveness.
 
 ---
 
